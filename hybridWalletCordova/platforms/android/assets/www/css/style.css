@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+.bgimage {
+    text-align:right;
+    color:white;
+    background-size: cover;
+    height: 150px;
+    width: 235px;
+    background-position: center center;
+}
+
+ul[rn-carousel] {
+    width: 250px;
+    height:150px;
+}
+
+.carousel-demo {
+    margin-top:20px;
+    text-align: center;
+}
+
+.carousel-demo ul[rn-carousel-transition="hexagon"] {
+  margin: auto;
+}
